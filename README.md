@@ -6,6 +6,6 @@ git remote set-url upstream https://github.com/PHPMailer.git
 ```
 Please _dont't_ use the SourceForge or Google Code projects any more; they are obsolete and no longer mantained.
 
-#History
+# History
 * PHP Mailer was orginally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/projects/phpmailer/)
 * Marcus Bointon (coolbru on SF) and Andy Prevost (codeworxtech) took over the project in 2004
